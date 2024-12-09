@@ -44,7 +44,7 @@ export default function Hero() {
             transition={{ duration: 0.5, delay: 0.6 }}
             className="mt-6 text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto"
           >
-            Building high-performance mobile applications and contributing to the developer community.
+            Building high-performance web/mobile/ML applications and contributing to the developer community.
             Passionate about teaching, crafting elegant solutions and user experience.
           </motion.p>
           
@@ -55,7 +55,7 @@ export default function Hero() {
             className="mt-8"
           >
             <a
-              href="/cv.pdf"
+              href="https://github.com/cogitovsmachina/personal-website/blob/4bd55e2fbdf7f96abc306b6c731094e9b821ce2f/public/CV.pdf"
               download
               className="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 transition-colors duration-300"
             >
