@@ -20,7 +20,7 @@ export default function Header({ isDark, toggleTheme }: HeaderProps) {
             whileHover={{ scale: 1.05 }}
             className="text-2xl font-bold text-gray-900 dark:text-white"
           >
-            JD
+            CogitoVsMachina
           </motion.div>
           
           <nav className="hidden md:flex space-x-8">
