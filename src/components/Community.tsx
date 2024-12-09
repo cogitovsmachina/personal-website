@@ -6,26 +6,26 @@ const engagements = [
   {
     icon: <Users size={24} />,
     title: 'Tech Meetups',
-    description: 'Regular speaker at local tech meetups and conferences',
-    metric: '15+ talks'
+    description: 'Regular speaker at local tech meetups and international conferences',
+    metric: '120+ talks'
   },
   {
     icon: <MessageSquare size={24} />,
     title: 'Technical Writing',
-    description: 'Contributing articles on dev.to and Medium',
-    metric: '25+ articles'
+    description: 'Contributing articles on Programa con Google blog and Oreilly book contributor',
+    metric: '30+ articles'
   },
   {
     icon: <Award size={24} />,
-    title: 'Mentorship',
-    description: 'Mentoring junior developers and bootcamp students',
-    metric: '30+ mentees'
+    title: 'Mentorship & Teaching',
+    description: 'Teaching & mentoring junior developers and bootcamp students',
+    metric: '3000+ students & mentees since 2014'
   },
   {
     icon: <Heart size={24} />,
-    title: 'Open Source',
-    description: 'Active contributor to various open source projects',
-    metric: '100+ PRs'
+    title: 'Tech communities organizer',
+    description: 'Active organizer at GDG CDMX & Google ML CDMX',
+    metric: '60+ meetups since 2010'
   }
 ];
 
