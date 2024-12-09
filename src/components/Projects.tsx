@@ -4,28 +4,28 @@ import { Github, ExternalLink } from 'lucide-react';
 
 const projects = [
   {
-    title: 'Project One',
-    description: 'A full-stack application built with React and Node.js',
+    title: 'CodeFlux AI',
+    description: 'A ML full-stack chat application acting as CS tutor built with React and Node.js',
     image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=500&h=300&fit=crop',
-    tags: ['React', 'Node.js', 'MongoDB'],
-    github: 'https://github.com',
-    live: 'https://example.com'
+    tags: ['Vertex AI', 'Docker', 'React', 'LearnML'],
+    github: 'https://github.com/cogitovsmachina/codeflux-ai',
+    live: 'https://codeflux-ai.vercel.app'
   },
   {
-    title: 'Project Two',
-    description: 'An e-commerce platform with real-time updates',
-    image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=500&h=300&fit=crop',
-    tags: ['Next.js', 'Prisma', 'PostgreSQL'],
-    github: 'https://github.com',
-    live: 'https://example.com'
+    title: 'Verificado19s',
+    description: 'Web app to centralize information with embedded Google Maps and Forms',
+    image: 'https://verificado19s.org/wp-content/uploads/2019/03/v19s_Protocolo-marzo10_portada-RECURSOS.png?w=500&h=300&fit=crop',
+    tags: ['Gulp.js', 'SASS', 'Bootstrap'],
+    github: 'https://github.com/cogitovsmachina/verificado19s',
+    live: 'https://verificado19s.org/'
   },
   {
-    title: 'Project Three',
-    description: 'Mobile-first progressive web application',
-    image: 'https://images.unsplash.com/photo-1555421689-491a97ff2040?w=500&h=300&fit=crop',
-    tags: ['React Native', 'Firebase', 'Redux'],
-    github: 'https://github.com',
-    live: 'https://example.com'
+    title: 'Shoe Lovers Android app',
+    description: 'An e-commerce mobile app awarded as Top 10 apps by Google in 2013',
+    image: 'https://cdn.dribbble.com/users/62860/screenshots/1376955/media/24e7b0de377f01c414f295d0f8acc295.png?resize=800x600&vertical=center?w=500&h=300&fit=crop',
+    tags: ['Picasso', 'Parse', 'GSON'],
+    github: 'https://github.com/cogitovsmachina/ShoeLoversForAndroid',
+    live: 'https://apkpure.com/shoe-lovers/co.shoelovers'
   }
 ];
 
