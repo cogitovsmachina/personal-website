@@ -4,36 +4,36 @@ import { Briefcase, Calendar } from 'lucide-react';
 
 const experiences = [
   {
-    company: 'Tech Corp',
-    position: 'Senior Full Stack Developer',
-    period: '2021 - Present',
-    description: 'Leading development of scalable web applications using React and Node.js. Mentoring junior developers and implementing best practices.',
+    company: 'DEVF Holdings Inc.',
+    position: 'Co-founder & CTO',
+    period: '2015 - Present',
+    description: 'Leading development of scalable web/ML applications using React/Vue and Python/Node.js. Mentoring junior developers and implementing best practices.',
     achievements: [
       'Reduced application load time by 40%',
-      'Implemented CI/CD pipeline',
-      'Led team of 5 developers'
+      'Implemented Design Sprint, Extreme programming and CI/CD pipelines',
+      'Hired, trained and managed team of up to 9 software engineers'
     ]
   },
   {
-    company: 'StartUp Inc',
-    position: 'Full Stack Developer',
-    period: '2019 - 2021',
-    description: 'Developed and maintained multiple client projects. Worked directly with clients to gather requirements and deliver solutions.',
+    company: 'EssentiaLab',
+    position: 'Co-founder & Principal Software Engineer',
+    period: '2013 - 2015',
+    description: 'Technical pre-sales, development and maintained multiple client projects. Worked directly with clients to gather requirements and deliver solutions.',
     achievements: [
-      'Launched 10+ successful projects',
-      'Introduced automated testing',
-      'Improved code coverage to 90%'
+      'Launched 13+ successful projects in less than 12 months for clients like Google, Endeavor Mexico and Grupo Expansion',
+      'Sourced, trained and Led a team of 5 software engineers',
+      'Introduced automated testing and improved code coverage to 90%'
     ]
   },
   {
-    company: 'Digital Agency',
-    position: 'Frontend Developer',
-    period: '2017 - 2019',
-    description: 'Created responsive web applications and implemented modern UI/UX designs.',
+    company: 'Consultant',
+    position: 'Android Engineer & Trainer',
+    period: '2008 - 2013',
+    description: 'Created Android applications and implemented modern UI/UX designs. Android trainer courses for Google',
     achievements: [
-      'Built 20+ client websites',
-      'Implemented component library',
-      'Optimized build process'
+      'Built 12 Android apps for clients such as Google, Motorola and Endeavor Mexico',
+      'Provided Android training courses for Google, technical writter at Programa con Google spanish official blog and Oreilly book contributor',
+      'Built 2 open source Android SDK libraries'
     ]
   }
 ];
